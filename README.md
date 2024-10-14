@@ -1,12 +1,10 @@
 <!-- 이미지? GIF? -->
 <div align="center">
+  <h4>🌟 안녕하세요, 성장하는 국가대표 프론트엔드 개발자 오예닮입니다.</h3>
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=OhYedam&fontSize=90" />
 </div>
 
 
-
-
-<h4 align="center">🌟 안녕하세요, 성장하는 국가대표 프론트엔드 개발자 오예닮입니다.</h3>
 
 <br/>
 
