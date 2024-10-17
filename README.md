@@ -1,13 +1,16 @@
-<!-- 이미지? GIF? -->
 <div align="center">
-  <h4>🌟 안녕하세요, 성장하는 국가대표 프론트엔드 개발자 오예닮입니다.</h3>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=OhYedam&fontSize=90" />
+
+  ![OhYedam](https://tech-orbit.wontory.dev/api?title=OhYedam&tech=React,JavaScript,TypeScript,Supabase&size=500&duration=20)
+
+ ###🌟 안녕하세요, 성장하는 국가대표 프론트엔드 개발자 오예닮입니다.
+
+📧 dhdpekfa1@daum.net
+<br/>
+🌐 [Portfolio](https://tmp.com)
 </div>
 
-
-
 <br/>
-
+<br/>
 
   <div style="text-align: left; display: inline-block; width: 350px;">
     <h4 style="margin: 0 0 10px 0;">🔥 <b>FrontEnd:</b> JavaScript, React.js, Next.js</h4>
@@ -15,8 +18,6 @@
     <h4 style="margin: 0;">💾 <b>DataBase:</b> Supabase</h4>
   </div>
 
-
-<br/>
 <br/>
 
 ---
@@ -58,21 +59,15 @@
     <img src="https://img.shields.io/badge/-Piggy-pink?style=for-the-badge&logo=github" alt="Piggy" />
     <span style="margin-left: 8px; color: #ffffff;">약속 커뮤니티 앱 프로젝트 (Forked)</span>
   </a>
+  <br/>
+  <a href="https://github.com/dhdpekfa1/CampingNativeApp" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Camping-tomato?style=for-the-badge&logo=github" alt="Piggy" />
+    <span style="margin-left: 8px; color: #ffffff;">캠핑 커뮤니티 앱 프로젝트 (Forked)</span>
+  </a>
 </div>
+
+
 
 ---
 
-<!-- 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhdpekfa1&show_icons=true&theme=radical" alt="dhdpekfa1's GitHub stats" style="max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhdpekfa1&layout=compact&theme=radical" alt="Top Langs" style="max-width: 100%;" />
-</div>
 
----
--->
-
-
-### 📫 Contact
-- 📧 Email: dhdpekfa1@daum.net
-- 🌐 [Portfolio](https://tmp.com)
