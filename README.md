@@ -2,7 +2,7 @@
 
   ![OhYedam](https://tech-orbit.wontory.dev/api?title=OhYedam&tech=React,JavaScript,TypeScript,Supabase&size=500&duration=20)
 
- ###🌟 안녕하세요, 성장하는 국가대표 프론트엔드 개발자 오예닮입니다.
+ ### 🌟 안녕하세요, 성장하는 국가대표 프론트엔드 개발자 오예닮입니다.
 
 📧 dhdpekfa1@daum.net
 <br/>
@@ -48,26 +48,5 @@
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   </span>
 </div>
-
-<br/>
-
-<br/>
-
-### 📌 Pinned Repositories
-<div align="center">
-  <a href="https://github.com/dhdpekfa1/Piggy" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Piggy-pink?style=for-the-badge&logo=github" alt="Piggy" />
-    <span style="margin-left: 8px; color: #ffffff;">약속 커뮤니티 앱 프로젝트 (Forked)</span>
-  </a>
-  <br/>
-  <a href="https://github.com/dhdpekfa1/CampingNativeApp" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Camping-tomato?style=for-the-badge&logo=github" alt="Piggy" />
-    <span style="margin-left: 8px; color: #ffffff;">캠핑 커뮤니티 앱 프로젝트 (Forked)</span>
-  </a>
-</div>
-
-
-
----
 
 
