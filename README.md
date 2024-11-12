@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![OhYedam](https://tech-orbit.wontory.dev/api?title=OhYedam&tech=React,JavaScript,TypeScript,Supabase&size=500&duration=20)
+![OhYedam](https://tech-orbit.wontory.dev/api?title=OhYedam&tech=JavaScript,TypeScript,React,Next.js,Supabase&size=700&duration=20)
 
  ### 🌟 안녕하세요, 성장하는 국가대표 프론트엔드 개발자 오예닮입니다.
 
