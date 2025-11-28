@@ -37,7 +37,8 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=Zustand&logoColor=white" alt="Zustand" />
+    <img src="https://img.shields.io/badge/ReduxToolKit-362874?style=for-the-badge&logo=ReduxToolKit-181717&logoColor=white" alt="Zustand" />
+   <img src="https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=Zustand&logoColor=white" alt="ReduxToolKit" />
   </span>
     
   <br/>
